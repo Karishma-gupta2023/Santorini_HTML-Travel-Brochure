@@ -10,8 +10,8 @@ header{
 }
 
 .container{
-    width:600px;
-    margin: auto;
+    width:60%;/* 60% of default view port of screen */
+    margin: auto; /*To place card in center of screen */
     border: 10px dashed white;
     padding:10px 40px;
     background-color: blueviolet;
@@ -24,6 +24,7 @@ h2{
 
 img{
     border: 2px solid white;
+    width:100%;
 }
 
 
